@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/1OG.json"
+                 "value":"..\/Zu-Hause\/1OG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
