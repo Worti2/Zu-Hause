@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/www.martina-markus-wortmann.de\/bisbald.html"
                 }],
@@ -69,6 +69,12 @@
          "id":16,
          "name":"EGvon1OG",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
