@@ -101,7 +101,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger: onaction",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.martina-markus-wortmann.de\/"
                 }],
