@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.martina-markus-wortmann.de\/"
+                 "value":"https:\/\/www.tagesschau.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
