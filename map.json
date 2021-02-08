@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Hier12\u00a7Testname"
+                 "value":"Hier12Testname"
                 }],
          "type":"tilelayer",
          "visible":true,
