@@ -101,9 +101,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.die-signwelt.de\/mar-wrc-du6-c1c"
+                 "value":"Hier12\u00a7Testname"
                 }],
          "type":"tilelayer",
          "visible":true,
