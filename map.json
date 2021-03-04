@@ -35,6 +35,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"exitTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/www.martina-markus-wortmann.de"
